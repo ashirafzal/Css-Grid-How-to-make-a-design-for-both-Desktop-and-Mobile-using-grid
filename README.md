@@ -1,0 +1,2 @@
+# Css-Grid-How-to-make-a-design-for-both-Desktop-and-Mobile-using-grid
+Css Grid How to make a design for both Desktop and Mobile using grid ,There are only two files in thihs one is html file and second one is css file this is an example code for how to make a website rdesign responsive for both the mobile and desktop as per now all the websites uses the responsive design for the user of both desktop and mobiles .
